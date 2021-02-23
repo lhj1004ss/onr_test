@@ -1,0 +1,45 @@
+.container {
+  padding-left: 40px;
+}
+
+.title {
+  text-transform: uppercase;
+  width: 75%;
+  margin: 0 auto;
+  margin-top: 30px;
+}
+
+.sub-title {
+  background-color: lightgray;
+  margin: 16px 0;
+  padding: 8px 0;
+}
+
+.sub-title h3 {
+  width: 75%;
+  margin: 0 auto;
+}
+
+.main-container {
+  width: 75%;
+  margin: 0 auto;
+  display: flex;
+}
+
+.main-container .main-chart {
+  width: 50%;
+}
+.main-container .main-graph {
+  width: 50%;
+  margin-left: 3rem;
+}
+
+.global-icon {
+  text-align: center;
+  margin: auto 0;
+}
+.pin-icon {
+  float: right;
+  color: rgba(3, 113, 182);
+  font-size: 1.5rem;
+}

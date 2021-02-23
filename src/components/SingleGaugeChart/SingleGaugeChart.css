@@ -1,0 +1,25 @@
+.chart-container {
+  border: 1px solid lightgray;
+  text-align: center;
+}
+.chart-container:hover {
+  border: 1px solid lightskyblue;
+  background-color: rgba(203, 232, 250, 0.9);
+}
+
+.chart-name {
+  margin: 10px 0;
+  color: rgb(4, 123, 197);
+}
+.chart-mini {
+  transform: translate(0%, -170%);
+}
+.chart-score {
+  color: rgb(4, 123, 197);
+}
+.chart-na {
+  color: darkgray;
+}
+.chart-sample {
+  transform: translate(0, -110%);
+}

@@ -1,0 +1,25 @@
+.filter-container {
+  margin-bottom: 1rem;
+}
+.filter-title {
+  color: darkgray;
+  margin-bottom: 8px;
+}
+.filter-subtitle {
+  border: 1px solid rgba(206, 202, 202, 0.8);
+  width: 270px;
+  padding: 15px;
+}
+
+.rect-icon1 {
+  color: blue;
+}
+.rect-icon2 {
+  opacity: 0.4;
+}
+.ex-mark {
+  color: darkgray;
+}
+span {
+  margin: 0 8px;
+}

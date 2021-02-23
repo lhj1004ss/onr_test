@@ -1,0 +1,17 @@
+.button-container {
+  display: flex;
+  justify-content: flex-end;
+  margin-bottom: 6rem;
+}
+.button {
+  background-color: rgb(4, 123, 197);
+  padding: 7px 10px;
+  margin-right: 5px;
+  border-radius: 5px;
+  color: white;
+  cursor: pointer;
+  border: none;
+}
+.button:hover {
+  opacity: 0.4;
+}

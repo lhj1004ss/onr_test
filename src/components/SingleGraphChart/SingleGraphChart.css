@@ -1,0 +1,13 @@
+.line-container {
+  text-align: center;
+}
+
+.line-svg {
+  background-color: rgba(113, 179, 255, 0.3);
+  width: 450px;
+  height: 300px;
+}
+
+.line-title {
+  margin-bottom: 1rem;
+}
